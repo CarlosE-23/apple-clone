@@ -10,9 +10,9 @@
         "preview": "vite preview"
     },
     "author": {
-        "name": "anyelopetita Kumar Verma",
-        "email": "anyelopetita.verma12345@gmail.com",
-        "url": "https://github.com/anyelopetity"
+        "name": "Carlos Guanipa",
+        "email": "carlosguanipa23@gmail.com",
+        "url": "https://github.com/Carlose-23"
     },
     "description": "Modern iPhone 15 inspired website using Three.js and GSAP animations.",
     "keywords": [
@@ -45,22 +45,13 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/anyelopetity/apple-clone.git"
+        "url": "https://github.com/Carlose-23/apple-clone.git"
     },
-    "homepage": "https://github.com/anyelopetity/apple-clone#readme",
+    "homepage": "https://github.com/Carlose-23/apple-clone#readme",
     "bugs": {
-        "url": "https://github.com/anyelopetity/apple-clone/issues",
-        "email": "anyelopetita.verma12345@gmail.com"
+        "url": "https://github.com/Carlose-23/apple-clone/issues",
+        "email": "carlosguanipa23@gmail.com"
     },
-    "funding": [{
-            "type": "patreon",
-            "url": "https://www.patreon.com/anyelopetit"
-        },
-        {
-            "type": "Buy me a coffee",
-            "url": "https://www.buymeacoffee.com/anyelopetit"
-        }
-    ],
     "dependencies": {
         "@gsap/react": "^2.1.2",
         "@react-three/drei": "^9.122.0",
